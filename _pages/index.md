@@ -7,13 +7,9 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+<p class="block">
+  This is my first attempt on a digital garden covering topics related to my PhD thesis. Among other things, you will find notes on spatio-temporal <a class="internal-link" href="/deconvolution"><span style="font-weight: bold">deconvolution</span></a> and <a class="internal-link" href="/tensor-decomposition"><span style="font-weight: bold">tensor decomposition</span></a> methods.
 </p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
 
 <style>
   .wrapper {
